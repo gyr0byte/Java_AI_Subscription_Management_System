@@ -74,10 +74,6 @@ java -cp out SubscriptionGUI
 - No persistence between runs unless you export and manually view files.
 - No database or networking; everything runs locally in memory.
 
-## Author
-
-- Sirjan Dulal
-
 ## License
 
 This project is for educational use. No explicit license is provided.
