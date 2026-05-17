@@ -68,14 +68,6 @@ java -cp out SubscriptionGUI
 3. Use the Index field to select a plan for prompt execution or plan type checks.
 4. Export plans to text files stored under `src/exports/` and load them from the GUI.
 
-## Screenshots
-
-Add screenshots in this section when available.
-
-![Main window placeholder](docs/images/placeholder-main-window.png)
-![Plan management placeholder](docs/images/placeholder-plan-management.png)
-![Export dialog placeholder](docs/images/placeholder-export-dialog.png)
-
 ## Limitations
 
 - Token counting is a simple approximation for learning purposes.
